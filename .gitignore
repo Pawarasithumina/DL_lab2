@@ -4,3 +4,4 @@ processed/
 __pycache__/
 .ipynb_checkpoints/
 .venv/
+*.zip
